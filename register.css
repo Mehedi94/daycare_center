@@ -1,0 +1,23 @@
+h1{
+  background-color:maroon;
+  color:white;
+  text-align: center;
+
+}
+#border{
+  background-color:navy ;
+  color:grey;
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#w{
+  color:white;
+  text-align: center;
+
+}
+
+input[type="submit"]:hover{
+cursor:pointer;
+background-color:yellow; 
+}

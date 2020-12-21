@@ -1,0 +1,19 @@
+footer{
+  clear: both;
+
+  background-color:#999999;
+  width: 900px;
+  padding: :10px;
+  color: white;
+  text-align:center;
+}
+
+#a{
+  margin: 5px;
+
+  background-color:orange;
+  padding:5px;
+  width: 900px;
+  color: brown;
+  padding: 10px;
+}
